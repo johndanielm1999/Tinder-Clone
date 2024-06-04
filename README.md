@@ -30,6 +30,6 @@ The work doesn't end after the app is launched – it's essential to provide ong
 ## Conclusion:
 - Building a **[Tinder clone](https://appkodes.com/tinder-clone/)** dating app is a challenging yet rewarding endeavor that requires careful planning, execution, and ongoing optimization. By following the steps outlined in this guide and leveraging the expertise of a trusted development partner like Appkodes Tinder Clone Script, you can bring your vision to life and carve out a niche in the competitive dating app market. Get started today and embark on the journey to creating the next big thing in online dating!
 
-- Launch your own dating app like Tinder in just 14 days with Appkodes Tinder Clone Script. Our pre-built solution offers rapid development, robust features, and scalability. Customizable to your branding and audience, our script ensures a personalized experience. Benefit from dedicated support and stay ahead in the competitive dating app market. Embrace the future of online connections with Appkodes today.
+- Launch your own dating app like Tinder in just 14 days with Appkodes **[Tinder Clone](https://github.com/topics/tinder-clone)** Script. Our pre-built solution offers rapid development, robust features, and scalability. Customizable to your branding and audience, our script ensures a personalized experience. Benefit from dedicated support and stay ahead in the competitive dating app market. Embrace the future of online connections with Appkodes today.
 
 
